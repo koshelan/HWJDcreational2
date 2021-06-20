@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86774630-2651-48f4-9776-30ca4e363ff4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uDYz2uKMFwgfib7B9rtVV5C5bN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruagegd\Downloads\HWJC" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HWJD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86774630-2651-48f4-9776-30ca4e363ff4" name="Default Changelist" comment="" />
+      <created>1624201885580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624201885580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Project_Structure" timestamp="1624202795322">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Project_Structure/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624202795321" />
+    <state width="1170" height="281" key="GridCell.Tab.0.bottom" timestamp="1624214690780">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624214690780" />
+    <state width="1170" height="281" key="GridCell.Tab.0.center" timestamp="1624214690780">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="281" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624214690780" />
+    <state width="1170" height="281" key="GridCell.Tab.0.left" timestamp="1624214690779">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="281" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624214690779" />
+    <state width="1170" height="281" key="GridCell.Tab.0.right" timestamp="1624214690780">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="281" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624214690780" />
+    <state x="-1430" y="175" key="Maven.ArtifactSearchDialog" timestamp="1624211286524">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="175" key="Maven.ArtifactSearchDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624211286524" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1624201902011">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624201902011" />
+  </component>
+</project>
